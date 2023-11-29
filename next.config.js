@@ -4,6 +4,9 @@ const nextConfig = {
     appDir: true,
     serverActions: true,
   },
+  images: {
+    domains: ['m.media-amazon.com'],
+  },
 };
 
 module.exports = nextConfig;
